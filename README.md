@@ -8,9 +8,9 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- <picture>
+<picture>
  <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="https://skillicons.dev/icons?i=all">
+ <img alt="Skills" src="https://skillicons.dev/icons?i=ae, adonis, aws, blender, cpp, cmake, discord, bots, figma, gmail, pr, py">
 </picture>
 
