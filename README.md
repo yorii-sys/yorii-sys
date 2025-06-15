@@ -11,6 +11,6 @@
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="Skills" src="https://skillicons.dev/icons?i=ae, adonis, aws, blender, cpp, cmake, discord, bots, figma, gmail, pr, py">
+ <img alt="Skills" src="https://skillicons.dev/icons?i=ae,adonis,aws,blender,cpp,cmake,discord,bots,figma,gmail,pr,py">
 </picture>
 
